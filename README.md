@@ -1,6 +1,6 @@
 # InfluenceHub
 
-> **What this repository is:** the design documentation and demo for InfluenceHub — high-level design, low-level design and key flows. The application source code is private. More projects: [portfolio](https://srajan1234.github.io/portfolio/).
+> **What this repository is:** the design documentation and demo for InfluenceHub — high-level design, low-level design and key flows. **The full source code is private because this is a personal project; I am happy to walk through it or discuss it on request.** More projects: [portfolio](https://srajan1234.github.io/portfolio/).
 
 **A microservices influencer-marketing marketplace connecting Indian brands with creators — with deliverables shown as watermarked previews until the brand pays.**
 
